@@ -1,5 +1,5 @@
 context:
-  version: "5.4.1"
+  version: "5.5.0"
 
 package:
   name: qats
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/q/qats/qats-${{ version }}.tar.gz
-  sha256: 894c47e45b28028a2d724676f01332b696a2ee91aa14c6387403541bc5096df8
+  sha256: 33b67c106ce0624bc3722c406500c84039d82cdd5357f3cd2d10aa3028573509
 
 build:
   number: 0
